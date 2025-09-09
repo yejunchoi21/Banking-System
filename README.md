@@ -5,13 +5,13 @@ The program focuses on the following core C skills: functions, loops, conditiona
 Functionality:
 The program has a login system by using sting comparision for the card number and password and includes a three-attempt lockout and error messages if login information was typed incncorectly.
 
-User's account info and current balances (two-decimal currency) is displayed in the terminal
+User's account info and current balances (two-decimal currency) is displayed in the terminal.
 
 Withdraw / Deposit function updates user balances immediately.
 
 Transferring move the funds between Chequing, Savings, and TFSA.
 
-Prevents overdrafts, meaning account balance cannot exceed less than 0
+Prevents overdrafts, meaning account balance cannot exceed less than $0.
 
 Input validation for menu choices and account selection, with helpful prompts.
 
