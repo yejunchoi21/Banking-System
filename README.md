@@ -1,4 +1,4 @@
-A small banking program written in C. that allows the user to  access three accounts; Chequing, Savings, TFSA. The program lets you withdraw, deposit, and transfer money in the terminal from the three accounts. 
+A small banking program written in C that allows the user to access three accounts; Chequing, Savings, TFSA. The program lets you withdraw, deposit, and transfer money in the terminal from the three accounts. 
 
 The program focuses on the following core C skills: functions, loops, conditionals, and safe input.
 
